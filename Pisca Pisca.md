@@ -1,15 +1,15 @@
-*Descrição*
+**Descrição**
 
 O primeiro projeto é o pisca pisca, onde foi feito um sistema que liga o primeiro LED por 3 segubdos e após apagar, liga o próximo e assim sucessivamente até voltar novamente ao início.
 
-*Materiais*
+**Materiais**
 
 - 1 Arduíno Uno
 - 1 Placa de Ensaio
 - 5 LEDS
 - 5 Resistores 220 Ohns
 
-*Código*
+**Código**
 
 int leds[] = {2, 3, 4, 5, 6}; 
 int tempo = 3000;              
